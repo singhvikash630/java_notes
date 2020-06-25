@@ -1,0 +1,11 @@
+git config --global user.name "singhvikash630"
+git config --global user.email "singh.vikash630@gmail.com"
+git init
+git add .
+git commit -m "created microservices for loan application"
+git remote add origin https://github.com/singhvikash630/microservices.git
+git push -u origin master
+
+user : singh.vikash630@gmail.com
+pass : Vikash1@niit
+ 
